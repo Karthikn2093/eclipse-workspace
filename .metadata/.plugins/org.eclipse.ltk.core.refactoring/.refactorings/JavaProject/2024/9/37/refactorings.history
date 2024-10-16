@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;testCases&apos; to &apos;JavaForGit/src&apos;&#x0D;&#x0A;- Original project: &apos;JavaProject&apos;&#x0D;&#x0A;- Destination element: &apos;JavaForGit/src&apos;&#x0D;&#x0A;- Original element: &apos;JavaProject/src/testCases&apos;" description="Copy package" destination="=JavaForGit/src" element1="/src&lt;testCases" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1725773318274" version="1.0"/>
+</session>
